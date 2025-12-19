@@ -1,0 +1,5 @@
+rclpy==3.3.13
+cv-bridge==3.4.0
+opencv-python==4.8.1.78
+ultralytics==8.0.232
+numpy==1.24.4
